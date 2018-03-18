@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 大哥你是个傻子呀哈哈哈哈
 
 You can use the [editor on GitHub](https://github.com/UObito/myH5/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
